@@ -2,6 +2,8 @@
 
 <p><b>Note: This is a clone of an existing group project from Franklin Univesrity's Capstone 495 from the Fall semester of 2023 that I was the team lead for. The original repository is private due to university policy but I recieved permission from the teacher and all team members to create a public repository using the original source code. </b></p>
 
+
+
 <h4>Description</h4>  
 <p>
 Music Lessons is a web-bassed application that allows a business dedicated to lessons to advertise their store, manage students/teachers, schedule lessons, pay for lessons, and view learning material.
