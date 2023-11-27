@@ -10,7 +10,7 @@ Music Lessons is a web-bassed application that allows a business dedicated to le
 </p>
 
 <h4>Demo</h4>
-[![Watch the video](https://youtu.be/XOAhD7ScdEo)
+<iframe src=https://youtu.be/XOAhD7ScdEo></iframe>
 
 <h4>Project Scope </h4>
 <p>At the end of this project, the app will provide the following functionalities: <br/ >
