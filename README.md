@@ -1,5 +1,7 @@
 <h2>Project Name: Music Lessons</h2>
 
+<p><b>Note: This is a clone of an existing group project from Franklin Univesrity's Capstone 495 from the Fall semester of 2023 that I was the team lead for. The original repository is private due to university policy but I recieved permission from the teacher and all team members to create a public repository using the original source code. </b></p>
+
 <h4>Description</h4>  
 <p>
 Music Lessons is a web-bassed application that allows a business dedicated to lessons to advertise their store, manage students/teachers, schedule lessons, pay for lessons, and view learning material.
@@ -15,11 +17,6 @@ Music Lessons is a web-bassed application that allows a business dedicated to le
 	<li>Payment for lessons</li>
   <li>Admins can create messages for all users to see</li>
 </ul>
-Some stretch goals include: </br>
-<ul>
-  <li>Admins uploading learning materials such as sheet music or music theory articles</li>
-  <li>Users being able to view these learning materials for lessons</li>
-</ul>
 </p>
 
 <h4>Tech Stack</h4>
@@ -30,7 +27,7 @@ Some stretch goals include: </br>
 
 <h4>Team Members</h4>
 <ul>
-	<li><b>Project Lead (495): </b> Geoffrey Schmidt</li>
-	<li><b>Senior Developer (394): </b>Austin Grubb </li>
-	<li><b>Junior Developer (294): </b>Erron James </li>
+	<li><b>Project Lead: </b> Geoffrey Schmidt</li>
+	<li><b>Senior Developer: </b>Austin Grubb </li>
+	<li><b>Junior Developer: </b>Erron James </li>
 	</ul>
