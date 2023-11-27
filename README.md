@@ -35,5 +35,5 @@ Music Lessons is a web-bassed application that allows a business dedicated to le
 	</ul>
 
 <h4>ERD</h4>
-<p><b>Design Document in the wiki section</b></p>
+<p><b>Design Document in the wiki section, Learning Materials are not present in the application</b></p>
 <img src=https://github.com/Mcbalsa/Music-Lessons/assets/93947154/a6ef7621-2507-44d0-9505-f06adac7dfb4</img>
