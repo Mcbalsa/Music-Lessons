@@ -33,3 +33,7 @@ Music Lessons is a web-bassed application that allows a business dedicated to le
 	<li><b>Senior Developer: </b>Austin Grubb </li>
 	<li><b>Junior Developer: </b>Erron James </li>
 	</ul>
+
+<h4>ERD</h4>
+<p><b>Design Document in the wiki section</b></p>
+![image](https://github.com/Mcbalsa/Music-Lessons/assets/93947154/a6ef7621-2507-44d0-9505-f06adac7dfb4)
