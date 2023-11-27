@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MusicLessonsApplication<music_lessons>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com._f_geo.music_lessons.MusicLessonsApplication",
+            "projectName": "music_lessons",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
