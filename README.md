@@ -9,6 +9,9 @@
 Music Lessons is a web-bassed application that allows a business dedicated to lessons to advertise their store, manage students/teachers, schedule lessons, pay for lessons, and view learning material.
 </p>
 
+<h4>Demo</h4>
+[![Watch the video](https://youtu.be/XOAhD7ScdEo)
+
 <h4>Project Scope </h4>
 <p>At the end of this project, the app will provide the following functionalities: <br/ >
 <ul>
