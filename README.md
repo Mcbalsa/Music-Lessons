@@ -11,7 +11,7 @@ Music Lessons is a web-bassed application that allows a business dedicated to le
 
 <h4>Demo</h4>
 <a href="https://youtu.be/XOAhD7ScdEo">
-	<img src="http://img.youtube.com/vi/XOAhD7ScdEo/mqdefault.jpg" alt="Watch the video" width="1920" height="1080" border="10" />
+	<img src="http://img.youtube.com/vi/XOAhD7ScdEo/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 <h4>Project Scope </h4>
